@@ -7,6 +7,7 @@ class HelloWorld extends Component {
     <p>Changes</p>
     <p>Another Change</p>
     <p>Another Change</p>
+    <h1>Another Change</h1>
     )
   }
 }
