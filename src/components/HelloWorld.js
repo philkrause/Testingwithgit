@@ -5,6 +5,7 @@ class HelloWorld extends Component {
     return (
     <h1>Hello, World!</h1>
     <p>Changes</p>
+    <p>Another Change</p>
     )
   }
 }
